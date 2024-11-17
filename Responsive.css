@@ -1,0 +1,294 @@
+
+
+/* Petits appareils (smartphones) */
+@media (max-width: 576px) {
+    body{background-image:url("img/Background.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        }   
+    
+    
+    
+    .IIM{float: right;
+        padding: 1rem;
+        }
+    
+    .fromsoft{
+        padding-bottom: 2rem;
+        }
+    
+    h1{ text-align: center;
+        margin-bottom:100px;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 300%;
+        }
+    
+    h2{ text-align: center;
+        background-color:darkslategrey;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200%;
+        margin-top:-40px;}
+    
+    .Titre_story{margin-top: 400px;}
+    
+    .FromSoftware{ text-align:justify;
+        text-align: center; 
+        margin-top: 100px;margin-left: 50px;
+        margin-right: 50px;color: aliceblue;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: black;
+        line-height: 30px;}
+    
+    
+    .Elden {float:right; 
+        margin-right: 220px;}
+    .Sekiro {float:right; 
+        margin-right: 20px;
+        margin-top:-155px}
+
+    .Dark3{float:right; 
+        margin-right: 20px;}
+    .Dark1{float:right; 
+        margin-right: 220px;
+        margin-top:-150px}
+    /* Styles pour les écrans ≤ 576px */
+  }
+  
+  /* Moyens appareils (tablettes portrait) */
+  @media (min-width: 577px) and (max-width: 768px) {
+
+    body{background-image:url("img/Background.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        }   
+    
+    
+    .IIM{float: right;
+        padding: 1rem;
+        }
+    
+    .fromsoft{
+        padding-bottom: 2rem;
+        }
+    
+    h1{ text-align: center;
+        margin-bottom:100px;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 300%;
+        }
+    
+    h2{ text-align: center;
+        background-color:darkslategrey;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200%;
+        margin-top:-40px;}
+    
+    .Titre_story{margin-top: 250px;}
+    
+    .FromSoftware{ text-align:justify;
+        text-align: center; 
+        margin-top: 100px;margin-left: 50px;
+        margin-right: 50px;color: aliceblue;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: black;
+        line-height: 30px;}
+    
+    
+    .Elden {float:right; 
+        margin-right: 220px;}
+    .Sekiro {float:right; 
+        margin-right: 20px;
+        }
+
+    .Dark3{float:right; 
+        margin-right: 20px;}
+    .Dark1{float:right; 
+        margin-right: 45px;
+        margin-top:-155px}
+    /* Styles pour les écrans entre 577px et 768px */
+  }
+  
+  /* Tablettes en mode paysage ou petits laptops */
+  @media (min-width: 769px) and (max-width: 992px) {
+   
+    body{background-image:url("img/Background.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        }   
+    
+    
+    .IIM{float: right;
+        padding: 1rem;
+        }
+    
+    .fromsoft{
+        padding-bottom: 2rem;
+        }
+    
+    h1{ text-align: center;
+        margin-bottom:100px;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 300%;
+        }
+    
+    h2{ text-align: center;
+        background-color:darkslategrey;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200%;
+        margin-top:-40px;}
+    
+    .Titre_story{margin-top: 250px;}
+    
+    .FromSoftware{ text-align:justify;
+        text-align: center; 
+        margin-top: 100px;margin-left: 50px;
+        margin-right: 50px;color: aliceblue;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: black;
+        line-height: 30px;}
+    
+    
+    .Elden {float:right; 
+        margin-right: 125px;}
+    .Sekiro {float:right; 
+        margin-right: 20px;
+        }
+
+    .Dark3{float:right; 
+        margin-right: 20px;}
+    .Dark1{float:right; 
+        margin-right: 20px;
+        }
+    /* Styles pour les écrans entre 769px et 992px */
+  }
+  
+  /* Laptops et desktops */
+  @media (min-width: 993px) and (max-width: 1200px) {
+
+
+    body{background-image:url("img/Background.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        }   
+    
+    
+    .IIM{float: right;
+        padding: 1rem;
+        }
+    
+    .fromsoft{
+        padding-bottom: 2rem;
+        }
+    
+    h1{ text-align: center;
+        margin-bottom:100px;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 300%;
+        }
+    
+    h2{ text-align: center;
+        background-color:darkslategrey;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200%;
+        margin-top:-40px;}
+    
+    .Titre_story{margin-top: 250px;}
+    
+    .FromSoftware{ text-align:justify;
+        text-align: center; 
+        margin-top: 100px;margin-left: 50px;
+        margin-right: 50px;color: aliceblue;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: black;
+        line-height: 30px;}
+    
+    
+    .Elden {float:right; 
+        margin-right: 180px;}
+    .Sekiro {float:right; 
+        margin-right: 20px;
+        }
+
+    .Dark3{float:right; 
+        margin-right: 20px;}
+    .Dark1{float:right; 
+        margin-right: 20px;
+        }
+    /* Styles pour les écrans entre 993px et 1200px */
+  }
+  
+  /* Grands écrans */
+  @media (min-width: 1201px) {
+    
+    
+    body{background-image:url("img/Background.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        }   
+    
+    
+    .IIM{float: right;
+        padding: 1rem;
+        }
+    
+    .fromsoft{
+        padding-bottom: 2rem;
+        }
+    
+    h1{ text-align: center;
+        margin-bottom:100px;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 300%;
+        }
+    
+    h2{ text-align: center;
+        background-color:darkslategrey;
+        font-family: "Pirata One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200%;
+        margin-top:-40px;}
+    
+    .Titre_story{margin-top: 250px;}
+    
+    .FromSoftware{ text-align:justify;
+        text-align: center; 
+        margin-top: 100px;margin-left: 50px;
+        margin-right: 50px;color: aliceblue;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: black;
+        line-height: 30px;}
+    
+    
+    .Elden {float:right; 
+        margin-right: 300px;}
+    .Sekiro {float:right; 
+        margin-right: 20px;
+        }
+
+    .Dark3{float:right; 
+        margin-right: 20px;}
+    .Dark1{float:right; 
+        margin-right: 20px;
+        }
+    /* Styles pour les écrans ≥ 1201px */
+  }
+  
